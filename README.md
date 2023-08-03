@@ -8,14 +8,4 @@
 | 
 |  |
 
-
-# Projetos
-* 
-
-
-# Links
-* [Blog]()
-* [Medium]()
-* [LinkedIn]()
-  
 ---
