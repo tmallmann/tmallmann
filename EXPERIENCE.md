@@ -2,8 +2,8 @@
 
 ## Programming Languages
 
-- **Python**
-- **Kotlin**
+- Python
+- Kotlin
 - Matlab
 - C/C++
 - JavaScript <sup>_(learning)_</sup>
@@ -13,7 +13,8 @@ Also<sup>[1](#note-1)</sup>: C# and VBA.
 
 ## IDEs / Editors
 
-- **Android Studio**
+- PyCharm
+- Android Studio
 - Visual Studio Code
 
 Also<sup>[1](#note-1)</sup>: Sublime Text.
