@@ -4,9 +4,8 @@
 
 - Python
 - Kotlin
-- Matlab
+- Matlab<sup>_(learning)_</sup>
 - C/C++
-- JavaScript <sup>_(learning)_</sup>
 
 Also<sup>[1](#note-1)</sup>: C# and VBA.
 
