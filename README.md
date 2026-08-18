@@ -27,7 +27,7 @@ My interests include:
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="800" valign="top">
       <h3>🧠 Mind Academy</h3>
       <p>
         A place where you can enhance your knowledge and memory skills with specialized training events.                                        
@@ -53,12 +53,15 @@ My interests include:
         <a href="https://mindacademy.vercel.app/">Play now</a> | <a href="https://github.com/tmallmann/v0-memory">GitHub</a>
       </p>
     </td>    
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/proj1.png" width="150">
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td>
+    <td width= 800" valign="top">
       <h3>🧩 Tiles Puzzl</h3>
       <p>
         The classic 15-tiles sliding puzzle that challenges you to place the tiles in the correct sequence.
@@ -82,7 +85,10 @@ My interests include:
         <strong>Links:</strong>
         <a href="https://tiles-puzzl.vercel.app/">Play now</a> | <a href="https://github.com/tmallmann/v0-sliding-puzzle-game">GitHub</a>
       </p>
-    </td>    
+    </td>
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/proj2.png" width="150">
+    </td>
   </tr>
 </table>
 
