@@ -30,12 +30,12 @@ My interests include:
     <td valign="top">
       <h3>🧠 Mind Academy</h3>
       <p>
-        A place where you can enhance your memory skills and knowledge with specialized training events.                                        
+        A place where you can enhance your knowledge and memory skills with specialized training events.                                        
       </p>
         <strong>Key features:</strong>
       <ul>
         <li>10 memory events</li>
-        <li>3 knowledge events</li>
+        <li>3 extra events</li>
         <li>Customizable</li>
         <li>Training statistics</li>
         <li>Responsive design</li>
