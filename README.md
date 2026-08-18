@@ -52,10 +52,7 @@ My interests include:
         <strong>Links:</strong>
         <a href="https://mindacademy.vercel.app/">Play now</a> | <a href="https://github.com/tmallmann/v0-memory">GitHub</a>
       </p>
-    </td>
-    <td width="300" align="center" valign="middle">
-      <img src="./assets/proj1.png" width="200">
-    </td>
+    </td>    
   </tr>
 </table>
 
@@ -85,10 +82,7 @@ My interests include:
         <strong>Links:</strong>
         <a href="https://tiles-puzzl.vercel.app/">Play now</a> | <a href="https://github.com/tmallmann/v0-sliding-puzzle-game">GitHub</a>
       </p>
-    </td>
-    <td width="300" align="center" valign="middle">
-      <img src="./assets/proj2.png" width="200">
-    </td>
+    </td>    
   </tr>
 </table>
 
