@@ -17,7 +17,8 @@ I enjoy learning new technologies and turning ideas into real-world projects.
 
 My interests include:
 - 🤖 Automation
-- 💻 Programming
+- 👨🏻‍💻 Programming
+- 🎯 Computer Vision
 - 🌌 Astronomy
 - 🧠 Memory Techniques
 - 🧩 Puzzle Solving
