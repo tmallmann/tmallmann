@@ -54,7 +54,7 @@ My interests include:
       </p>
     </td>
     <td width="320" align="center" valign="middle">
-      <img src="./assets/proj1.png" width="20">
+      <img src="./assets/proj1.png" width="320">
     </td>
   </tr>
 </table>
