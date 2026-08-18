@@ -17,7 +17,8 @@ Gosto de aprender novas tecnologias e tornar ideias em projetos reais.
 
 Meus interesses incluem:
 - 🤖 Automação
-- 💻 Programação
+- 👨🏻‍💻 Programação
+- 🎯 Visão Computacional
 - 🌌 Astronomia
 - 🧠 Técnicas de Memória
 - 🧩 Resolução de Puzzles
