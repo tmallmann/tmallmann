@@ -1,6 +1,10 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tmallmann/tmallmann/issues)
 
-[🇺🇸 English](README.md) | [🇧🇷 Português](README-pt.md)
+<p align="right">
+  <sub>
+    🇺🇸 English | 🇧🇷 <a href="README.md">Português</a>    
+  </sub>
+</p>
 
 ## ✨ Welcome to my Portfolio!
 Here you will find software development projects focused on task automation, memory training, games and puzzles.
