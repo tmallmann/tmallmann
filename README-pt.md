@@ -1,0 +1,10 @@
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tmallmann/tmallmann/issues)
+
+[🇺🇸 English](README.md) | [🇧🇷 Português] 
+
+## ✨ Bem-vindo(a) ao meu Portfólio!
+Aqui você encontrará projetos focados em automação de tarefas, treinamento de memória, jogos e quebra-cabeças.
+
+## 📝 Sobre mim
+Sou Engenheiro de Controle e Automação e Desenvolvedor de Software.<br>
+Tenho interesse por novas tecnologias e prazer em transformar ideias em projetos reais.
