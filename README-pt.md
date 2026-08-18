@@ -1,6 +1,10 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tmallmann/tmallmann/issues)
 
-[🇺🇸 English](README.md) | [🇧🇷 Português] 
+<p align="right">
+  <sub>
+    🇺🇸 <a href="README.md">English</a> | 🇧🇷 Português    
+  </sub>
+</p>
 
 ## ✨ Bem-vindo(a) ao meu Portfólio!
 Aqui você encontrará projetos focados em automação de tarefas, treinamento de memória, jogos e quebra-cabeças.
