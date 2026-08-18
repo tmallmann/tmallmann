@@ -7,7 +7,7 @@
 </p>
 
 ## ✨ Bem-vindo(a) ao meu Portfólio!
-Aqui você encontrará projetos de desenvolvimento de software baseados em automação de tarefas, treinamento de memória, jogos e quebra-cabeças.
+Aqui você encontrará projetos de desenvolvimento de software baseados em automação de tarefas, treinamento de memória, jogos e puzzles.
 
 <br>
 
