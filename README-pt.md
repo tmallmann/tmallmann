@@ -44,7 +44,7 @@ Um lugar onde você pode aperfeiçoar suas habilidades de memória através de e
 ---
 
 ### 🧩 Tiles Puzzl
-O clássico jogo 15-puzzle onde o objetivo é organizar os numéros na ordem correta.
+O clássico jogo 15-puzzle que te desafia a organizar os números na ordem correta.
 
 **Principais recursos:**
 - Dimensões customizáveis
