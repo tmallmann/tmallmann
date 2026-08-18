@@ -89,7 +89,7 @@ My interests include:
       </p>
     </td>
     <td width="320">
-      <img src="./assets/proj1.png" width="280">
+      <img src="./assets/proj2.png" width="280">
     </td>
   </tr>
 </table>
