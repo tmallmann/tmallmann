@@ -2,7 +2,7 @@
 
 [🇺🇸 English](README.md) | [🇧🇷 Português](README-pt.md)
 
-## ✨ Welcome to My Portfolio!
+## ✨ Welcome to my Portfolio!
 Here you will find software development projects focused on task automation, memory training, games and puzzles.
 
 ## 📝 About me
