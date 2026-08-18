@@ -25,7 +25,7 @@ My interests include:
 
 ## 🚀 Projects
 
-<table width="100%">
+<table>
   <tr>
     <td valign="top">
       <h3>🧠 Mind Academy</h3>
