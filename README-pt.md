@@ -25,36 +25,73 @@ Meus interesses incluem:
 
 <br>
 
-## 🚀 Projetos
+## 🚀 Projects
 
-### 🧠 Mind Academy
-Um lugar onde você pode aperfeiçoar suas habilidades de memória através de eventos especializados.
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <h3>🧠 Mind Academy</h3>
+      <p>
+        Um lugar onde você pode aperfeiçoar suas habilidades de memória através de eventos especializados..                                        
+      </p>
+        <strong>Principais recursos:</strong>
+      <ul>
+        <li>10 eventos de memória</li>
+        <li>3 eventos de conhecimentos gerais</li>
+        <li>Customizável</li>
+        <li>Estatísticas dos treinos</li>
+        <li>Design responsivo</li>
+      </ul>
+      <p>
+        <strong>Tecnologias:</strong>
+        <code>Vercel</code>
+        <code>Next.js</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Tailwind CSS</code>
+      </p>
+      <p>
+        <strong>Links:</strong>
+        <a href="https://mindacademy.vercel.app/">Jogue agora</a> | <a href="https://github.com/tmallmann/v0-memory">GitHub</a>
+      </p>
+    </td>
+    <td width="320" align="center" valign="middle">
+      <img src="./assets/proj1.png" width="280">
+    </td>
+  </tr>
+</table>
 
-**Principais recursos:**
-- 10 eventos de memória
-- 3 eventos de conhecimentos gerais
-- Customizável
-- Estatísticas dos treinos
-- Design responsivo
-
-**Tecnologias:**
-`Vercel` `Next.js` `React` `TypeScript` `Tailwind CSS`
-
-**Links:** [Jogue agora](https://mindacademy.vercel.app/) | [GitHub](https://github.com/tmallmann/v0-memory)
-
----
-
-### 🧩 Tiles Puzzl
-O clássico jogo 15-puzzle que te desafia a organizar os números na ordem correta.
-
-**Principais recursos:**
-- Dimensões customizáveis
-- Cores e temas customizáveis
-- Design responsivo
-
-**Tecnologias:**
-`Vercel` `Next.js` `React` `TypeScript` `Tailwind CSS`
-
-**Links:** [Jogue agora](https://tiles-puzzl.vercel.app/) | [GitHub](https://github.com/tmallmann/v0-sliding-puzzle-game)
+<table>
+  <tr>
+    <td>
+      <h3>🧩 Tiles Puzzl</h3>
+      <p>
+        O clássico jogo 15-puzzle de blocos deslizantes que te desafia a organizar os números na ordem correta.
+      </p>
+        <strong>Principais recursos:</strong>
+      <ul>
+        <li>Dimensões customizáveis</li>
+        <li>Cores e temas customizáveis</li>
+        <li>Estatísticas dos treinos</li>
+        <li>Design responsivo</li>
+      </ul>
+      <p>
+        <strong>Tecnologias:</strong>
+        <code>Vercel</code>
+        <code>Next.js</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Tailwind CSS</code>
+      </p>
+      <p>
+        <strong>Links:</strong>
+        <a href="https://tiles-puzzl.vercel.app/">Jogue agora</a> | <a href="https://github.com/tmallmann/v0-sliding-puzzle-game">GitHub</a>
+      </p>
+    </td>
+    <td width="320">
+      <img src="./assets/proj2.png" width="280">
+    </td>
+  </tr>
+</table>
 
 <br>
