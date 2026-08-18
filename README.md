@@ -27,7 +27,7 @@ My interests include:
 ## 🚀 Projects
 
 ### 🧠 Mind Academy
-Mind Academy is a place where you can enhance your memory skills with specialized training events.
+A place where you can enhance your memory skills with specialized training events.
 
 **Key features:**
 - 10 memory events
@@ -44,7 +44,7 @@ Mind Academy is a place where you can enhance your memory skills with specialize
 ---
 
 ### 🧩 Tiles Puzzl
-The classic 15-puzzle gameplay with numbered tiles.
+The classic 15-puzzle game that challenge you to place the tiles in the correct sequence.
 
 **Key features:**
 - Customizable grid size
