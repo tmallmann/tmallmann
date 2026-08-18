@@ -27,9 +27,9 @@ Meus interesses incluem:
 
 ## 🚀 Projects
 
-<table width="100%">
+<table>
   <tr>
-    <td valign="top">
+    <td width="800" valign="top">
       <h3>🧠 Mind Academy</h3>
       <p>
         Um lugar onde você pode aperfeiçoar seus conhecimentos e habilidades de memória através de eventos especializados.                                      
@@ -55,15 +55,15 @@ Meus interesses incluem:
         <a href="https://mindacademy.vercel.app/">Jogue agora</a> | <a href="https://github.com/tmallmann/v0-memory">GitHub</a>
       </p>
     </td>
-    <td width="320" align="center" valign="middle">
-      <img src="./assets/proj1.png" width="280">
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/proj1.png" width="150">
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td>
+    <td width="800" valign="top">
       <h3>🧩 Tiles Puzzl</h3>
       <p>
         O clássico jogo 15-puzzle de blocos deslizantes que te desafia a organizar os números na ordem correta.
@@ -88,8 +88,8 @@ Meus interesses incluem:
         <a href="https://tiles-puzzl.vercel.app/">Jogue agora</a> | <a href="https://github.com/tmallmann/v0-sliding-puzzle-game">GitHub</a>
       </p>
     </td>
-    <td width="320">
-      <img src="./assets/proj2.png" width="280">
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/proj2.png" width="150">
     </td>
   </tr>
 </table>
