@@ -21,4 +21,4 @@ Also<sup>[1](#note-1)</sup>: Sublime Text.
 ---
 
 ##### Note 1:
-That list is for things that I haven't used in the last 12 months.
+Haven't used in the last 6 months.
