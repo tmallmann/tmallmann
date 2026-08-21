@@ -62,7 +62,7 @@ Meus interesses incluem:
 <table>
   <tr>
     <td width="800" valign="top">
-      <h3>🧩 Tiles Puzzl</h3>
+      <h3>🧩 Tiles Puzzl.</h3>
       <p>
         O clássico jogo 15-puzzle de blocos deslizantes que te desafia a organizar os números na ordem correta.
       </p>
