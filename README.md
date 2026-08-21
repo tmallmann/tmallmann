@@ -62,7 +62,7 @@ My interests include:
 <table>
   <tr>
     <td width= 800" valign="top">
-      <h3>🧩 Tiles Puzzl</h3>
+      <h3>🧩 Tiles Puzzl.</h3>
       <p>
         The classic 15-tiles sliding puzzle that challenges you to place the tiles in the correct sequence.
       </p>
