@@ -34,8 +34,7 @@ My interests include:
       </p>
         <strong>Key features:</strong>
       <ul>
-        <li>10 memory events</li>
-        <li>3 extra events</li>
+        <li>10+ categories </li>
         <li>Customizable</li>
         <li>Training statistics</li>
         <li>Responsive design</li>
