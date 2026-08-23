@@ -34,8 +34,7 @@ Meus interesses incluem:
       </p>
         <strong>Principais recursos:</strong>
       <ul>
-        <li>10 eventos de memória</li>
-        <li>3 eventos extras</li>
+        <li>10+ categorias</li>
         <li>Customizável</li>
         <li>Estatísticas dos treinos</li>
         <li>Design responsivo</li>
