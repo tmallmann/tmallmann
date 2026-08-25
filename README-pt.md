@@ -10,8 +10,7 @@ Aqui você encontrará projetos de desenvolvimento de software baseados em autom
 <br>
 
 ## 📝 Sobre mim
-Sou Engenheiro de Controle e Automação e Desenvolvedor de Software.<br>
-Gosto de aprender novas tecnologias e tornar ideias em projetos reais.
+Sou Engenheiro de Controle e Automação e gosto de aprender novas tecnologias e tornar ideias em projetos reais.
 
 Meus interesses incluem:
 - 🤖 Automação
