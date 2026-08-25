@@ -10,8 +10,7 @@ Here you will find software development projects focused on task automation, mem
 <br>
 
 ## 📝 About me
-I'm a Control and Automation Engineer and Software Developer.<br>
-I enjoy learning new technologies and turning ideas into real-world projects.
+I'm a Control and Automation Engineer and I enjoy learning new technologies and turning ideas into real-world projects.
 
 My interests include:
 - 🤖 Automation
