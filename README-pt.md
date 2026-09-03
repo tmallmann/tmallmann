@@ -48,7 +48,7 @@ Meus interesses incluem:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://mindacademy.vercel.app/">Acesse</a> | <a href="https://github.com/tmallmann/v0-memory">Documentação</a>
+        <a href="https://mindacademy.vercel.app/">Confira</a> | <a href="https://github.com/tmallmann/v0-memory">Documentação</a>
       </p>
     </td>
     <td width="250" align="center" valign="middle">
@@ -81,7 +81,7 @@ Meus interesses incluem:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://v0-algs-database.vercel.app/">Acesse</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentação</a>
+        <a href="https://v0-algs-database.vercel.app/">Confira</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentação</a>
       </p>
     </td>    
     <td width="250" align="center" valign="middle">
@@ -115,7 +115,7 @@ Meus interesses incluem:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://tiles-puzzl.vercel.app/">Acesse</a> | <a href="https://github.com/tmallmann/v0-sliding-puzzle-game">Documentação</a>
+        <a href="https://tiles-puzzl.vercel.app/">Confira</a> | <a href="https://github.com/tmallmann/v0-sliding-puzzle-game">Documentação</a>
       </p>
     </td>
     <td width="250" align="center" valign="middle">
