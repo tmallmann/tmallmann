@@ -85,7 +85,7 @@ Meus interesses incluem:
       </p>
     </td>    
     <td width="250" align="center" valign="middle">
-      <img src="./assets/proj1.png" width="150">
+      <img src="./assets/proj3.png" width="150">
     </td>
   </tr>
 </table>
