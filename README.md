@@ -67,8 +67,8 @@ My interests include:
         <strong>Key features:</strong>
       <ul>
         <li>3x3 and 4x4 CFOP algorithms </li>
-        <li>Algorithms for rotated cases</li>
-        <li>Algorithms for blindfolded method</li>
+        <li>Rotated cases</li>
+        <li>Blindfolded method</li>
         <li>Speedcubing Timer with statistics</li>
       </ul>
       <p>
