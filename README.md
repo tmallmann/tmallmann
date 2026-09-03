@@ -59,6 +59,39 @@ My interests include:
 
 <table>
   <tr>
+    <td width="800" valign="top">
+      <h3>📜 Algs Database</h3>
+      <p>
+        Master the Rubik's Cube with comprehensive algorithm collections and practice tools for speedcubing and blindfolded solving.                                        
+      </p>
+        <strong>Key features:</strong>
+      <ul>
+        <li>3x3 and 4x4 CFOP algorithms </li>
+        <li>Algorithms for rotated cases</li>
+        <li>Algorithms for blindfolded method</li>
+        <li>Speedcubing Timer with statistics</li>
+      </ul>
+      <p>
+        <strong>Tech stack:</strong>
+        <code>Vercel</code>
+        <code>Next.js</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Tailwind CSS</code>
+      </p>
+      <p>
+        <strong>Links:</strong>
+        <a href="https://v0-algs-database.vercel.app/">Play now</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentation</a>
+      </p>
+    </td>    
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/proj1.png" width="150">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width= 800" valign="top">
       <h3>🧩 Tiles Puzzl.</h3>
       <p>
