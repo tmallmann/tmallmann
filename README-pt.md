@@ -48,7 +48,7 @@ Meus interesses incluem:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://mindacademy.vercel.app/">Jogue agora</a> | <a href="https://github.com/tmallmann/v0-memory">Documentação</a>
+        <a href="https://mindacademy.vercel.app/">Acesse</a> | <a href="https://github.com/tmallmann/v0-memory">Documentação</a>
       </p>
     </td>
     <td width="250" align="center" valign="middle">
@@ -56,6 +56,40 @@ Meus interesses incluem:
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td width="800" valign="top">
+      <h3>📜 Algs Database</h3>
+      <p>
+        Domine o Cubo Mágico com algoritmos e ferramentas para a prática de speedcubing e resolução com os olhos vendados.
+      </p>
+        <strong>Key features:</strong>
+      <ul>
+        <li>Algoritmos CFOP para 3x3 e 4x4</li>
+        <li>Casos rotacionados</li>
+        <li>Modalidade vendado</li>
+        <li>Cronômetro com estatísticas</li>
+      </ul>
+      <p>
+        <strong>Tech stack:</strong>
+        <code>Vercel</code>
+        <code>Next.js</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Tailwind CSS</code>
+      </p>
+      <p>
+        <strong>Links:</strong>
+        <a href="https://v0-algs-database.vercel.app/">Acesse</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentação</a>
+      </p>
+    </td>    
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/proj1.png" width="150">
+    </td>
+  </tr>
+</table>
+
 
 <table>
   <tr>
@@ -81,7 +115,7 @@ Meus interesses incluem:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://tiles-puzzl.vercel.app/">Jogue agora</a> | <a href="https://github.com/tmallmann/v0-sliding-puzzle-game">Documentação</a>
+        <a href="https://tiles-puzzl.vercel.app/">Acesse</a> | <a href="https://github.com/tmallmann/v0-sliding-puzzle-game">Documentação</a>
       </p>
     </td>
     <td width="250" align="center" valign="middle">
