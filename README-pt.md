@@ -81,7 +81,7 @@ Meus interesses incluem:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://v0-algs-database.vercel.app/">Confira</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentação</a>
+        <a href="https://v0-algsdb.vercel.app/">Confira</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentação</a>
       </p>
     </td>    
     <td width="250" align="center" valign="middle">
