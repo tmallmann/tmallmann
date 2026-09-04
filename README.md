@@ -81,7 +81,7 @@ My interests include:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://v0-algs-database.vercel.app/">Check it out</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentation</a>
+        <a href="https://v0-algsdb.vercel.app/">Check it out</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentation</a>
       </p>
     </td>    
     <td width="250" align="center" valign="middle">
