@@ -22,7 +22,7 @@ Meus interesses incluem:
 
 <br>
 
-## 🚀 Projects
+## 🚀 Projetos
 
 <table>
   <tr>
@@ -30,16 +30,14 @@ Meus interesses incluem:
       <h3>🧠 Mind Academy</h3>
       <p>
         Um lugar onde você pode aperfeiçoar seus conhecimentos e habilidades de memória através de eventos especializados.                                      
-      </p>
-        <strong>Principais recursos:</strong>
+      </p>        
       <ul>
         <li>10+ categorias</li>
         <li>Customizável</li>
         <li>Estatísticas dos treinos</li>
         <li>Design responsivo</li>
       </ul>
-      <p>
-        <strong>Tecnologias:</strong>
+      <p>        
         <code>Vercel</code>
         <code>Next.js</code>
         <code>React</code>
@@ -63,16 +61,14 @@ Meus interesses incluem:
       <h3>📜 Algs Database</h3>
       <p>
         Domine o Cubo Mágico com algoritmos e ferramentas para a prática de speedcubing e resolução com os olhos vendados.
-      </p>
-        <strong>Key features:</strong>
+      </p>        
       <ul>
         <li>Algoritmos CFOP para 3x3 e 4x4</li>
         <li>Casos rotacionados</li>
         <li>Modalidade vendado</li>
         <li>Cronômetro com estatísticas</li>
       </ul>
-      <p>
-        <strong>Tech stack:</strong>
+      <p>        
         <code>Vercel</code>
         <code>Next.js</code>
         <code>React</code>
@@ -90,6 +86,49 @@ Meus interesses incluem:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width= 800" valign="top">
+      <h3>⏱️ Cube Timer</h3>
+      <p>
+        Escolha sua modalidade e use o cronômetro para registrar cada resolução.
+      </p>        
+        <code>HTML</code>
+        <code>Java Script</code>
+        <code>CSS</code>
+      </p>
+      <p>
+        <strong>Links:</strong>
+        <a href="https://tmallmann.github.io/cube-timer/">Check it out</a> | <a href="https://github.com/tmallmann/cube-timer">Documentation</a>
+      </p>
+    </td>
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/proj2.png" width="150">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width= 800" valign="top">
+      <h3>🏳️ Flags</h3>
+      <p>
+        Um jogo educativo e divertido para testar e aprimorar seus conhecimentos sobre as bandeiras dos países.
+      </p>
+        <code>HTML</code>
+        <code>Java Script</code>
+        <code>CSS</code>
+      </p>
+      <p>
+        <strong>Links:</strong>
+        <a href="https://tmallmann.github.io/flags/">Check it out</a> | <a href="https://github.com/tmallmann/flags">Documentation</a>
+      </p>
+    </td>
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/proj2.png" width="150">
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -97,16 +136,14 @@ Meus interesses incluem:
       <h3>🧩 Tiles Puzzl.</h3>
       <p>
         O clássico jogo 15-puzzle de blocos deslizantes que te desafia a organizar os números na ordem correta.
-      </p>
-        <strong>Principais recursos:</strong>
+      </p>        
       <ul>
         <li>Dimensões customizáveis</li>
         <li>Cores e temas customizáveis</li>
         <li>Estatísticas dos treinos</li>
         <li>Design responsivo</li>
       </ul>
-      <p>
-        <strong>Tecnologias:</strong>
+      <p>        
         <code>Vercel</code>
         <code>Next.js</code>
         <code>React</code>
@@ -123,5 +160,50 @@ Meus interesses incluem:
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td width= 800" valign="top">
+      <h3>🧩 Mosaic</h3>
+      <p>
+        Teste seu raciocínio e complete o tabuleiro no menor tempo.      
+      </p>        
+        <code>HTML</code>
+        <code>Java Script</code>
+        <code>CSS</code>
+      </p>
+      <p>
+        <strong>Links:</strong>
+        <a href="https://tmallmann.github.io/mosaic/">Check it out</a> | <a href="https://github.com/tmallmann/mosaic">Documentation</a>
+      </p>
+    </td>
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/proj2.png" width="150">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width= 800" valign="top">
+      <h3>📅 Planner</h3>
+      <p>
+        Tenha uma visão clara da sua rotina e mantenha tudo organizado em um só lugar.
+      </p>
+        <code>HTML</code>
+        <code>Java Script</code>
+        <code>CSS</code>
+      </p>
+      <p>
+        <strong>Links:</strong>
+        <a href="https://tmallmann.github.io/planner/">Check it out</a> | <a href="https://github.com/tmallmann/planner">Documentation</a>
+      </p>
+    </td>
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/proj2.png" width="150">
+    </td>
+  </tr>
+</table>
+
 
 <br>
