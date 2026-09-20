@@ -99,7 +99,7 @@ Meus interesses incluem:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://tmallmann.github.io/cube-timer/">Check it out</a> | <a href="https://github.com/tmallmann/cube-timer">Documentation</a>
+        <a href="https://tmallmann.github.io/cube-timer/">Confira</a> | <a href="https://github.com/tmallmann/cube-timer">Documentação</a>
       </p>
     </td>
     <td width="250" align="center" valign="middle">
@@ -121,7 +121,7 @@ Meus interesses incluem:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://tmallmann.github.io/flags/">Check it out</a> | <a href="https://github.com/tmallmann/flags">Documentation</a>
+        <a href="https://tmallmann.github.io/flags/">Confira</a> | <a href="https://github.com/tmallmann/flags">Documentação</a>
       </p>
     </td>
     <td width="250" align="center" valign="middle">
@@ -174,7 +174,7 @@ Meus interesses incluem:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://tmallmann.github.io/mosaic/">Check it out</a> | <a href="https://github.com/tmallmann/mosaic">Documentation</a>
+        <a href="https://tmallmann.github.io/mosaic/">Confira</a> | <a href="https://github.com/tmallmann/mosaic">Documentação</a>
       </p>
     </td>
     <td width="250" align="center" valign="middle">
@@ -196,7 +196,7 @@ Meus interesses incluem:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://tmallmann.github.io/planner/">Check it out</a> | <a href="https://github.com/tmallmann/planner">Documentation</a>
+        <a href="https://tmallmann.github.io/planner/">Confira</a> | <a href="https://github.com/tmallmann/planner">Documentação</a>
       </p>
     </td>
     <td width="250" align="center" valign="middle">
