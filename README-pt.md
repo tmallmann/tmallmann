@@ -103,7 +103,7 @@ Meus interesses incluem:
       </p>
     </td>
     <td width="250" align="center" valign="middle">
-      <img src="./assets/proj2.png" width="150">
+      <img src="./assets/blank.png" width="150">
     </td>
   </tr>
 </table>
@@ -125,7 +125,7 @@ Meus interesses incluem:
       </p>
     </td>
     <td width="250" align="center" valign="middle">
-      <img src="./assets/proj2.png" width="150">
+      <img src="./assets/blank.png" width="150">
     </td>
   </tr>
 </table>
@@ -178,7 +178,7 @@ Meus interesses incluem:
       </p>
     </td>
     <td width="250" align="center" valign="middle">
-      <img src="./assets/proj2.png" width="150">
+      <img src="./assets/blank.png" width="150">
     </td>
   </tr>
 </table>
@@ -200,7 +200,7 @@ Meus interesses incluem:
       </p>
     </td>
     <td width="250" align="center" valign="middle">
-      <img src="./assets/proj2.png" width="150">
+      <img src="./assets/blank.png" width="150">
     </td>
   </tr>
 </table>
