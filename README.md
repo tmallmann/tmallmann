@@ -103,7 +103,7 @@ My interests include:
       </p>
     </td>
     <td width="250" align="center" valign="middle">
-      <img src="./assets/blank.png" width="150">
+      <img src="./assets/proj5.png" width="150">
     </td>
   </tr>
 </table>
