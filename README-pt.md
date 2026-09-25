@@ -92,7 +92,13 @@ Meus interesses incluem:
       <h3>⏱️ Cube Timer</h3>
       <p>
         Escolha sua modalidade e use o cronômetro para registrar cada resolução.
-      </p>        
+      </p>
+      <ul>
+        <li>Cronômetro com inspeção.</li>
+        <li>Histórico de resoluções.</li>
+        <li>Modalidades 3x3, 4x4 e 5x5.</li>
+        <li>Suporte para mobile.</li>
+      </ul>
         <code>HTML</code>
         <code>Java Script</code>
         <code>CSS</code>
