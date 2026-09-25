@@ -119,8 +119,14 @@ Meus interesses incluem:
     <td width= 800" valign="top">
       <h3>🏳️ Flags</h3>
       <p>
-        Um jogo educativo e divertido para testar e aprimorar seus conhecimentos sobre as bandeiras dos países.
+        Um jogo educativo para testar e aprimorar seus conhecimentos sobre as bandeiras dos países.
       </p>
+      <ul>
+        <li>195 países.</li>
+        <li>Sistema de pontuação.</li>
+        <li>3 níveis de dificuldade.</li>
+        <li>Recorde e progresso.</li>
+      </ul>
         <code>HTML</code>
         <code>Java Script</code>
         <code>CSS</code>
