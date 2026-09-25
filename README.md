@@ -122,6 +122,12 @@ My interests include:
       <p>
         An educational and fun game to test and improve your knowledge of countries' flags.
       </p>
+      <ul>
+        <li>195 countries.</li>
+        <li>Scoring system.</li>
+        <li>3 difficulty levels.</li>
+        <li>Record and progress.</li>
+      </ul>
         <code>HTML</code>
         <code>Java Script</code>
         <code>CSS</code>
