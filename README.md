@@ -92,7 +92,14 @@ My interests include:
       <h3>⏱️ Cube Timer</h3>
       <p>        
         Choose your mode and use the timer to record each solution.<br>
-      </p>        
+      </p>
+      <ul>
+        <li>Timer with inspection.</li>
+        <li>Solve history.</li>
+        <li>3x3, 4x4 and 5x5 events.</li>
+        <li>Mobile support.</li>
+      </ul>
+      <p>
         <code>HTML</code>
         <code>Java Script</code>
         <code>CSS</code>
@@ -136,7 +143,7 @@ My interests include:
       <h3>🧩 Tiles Puzzl.</h3>
       <p>
         The classic 15-tiles sliding puzzle that challenges you to place the tiles in the correct sequence.
-      </p>        
+      </p>
       <ul>
         <li>Customizable grid size</li>
         <li>Customizable tile colors and themes</li>
