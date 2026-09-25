@@ -32,7 +32,7 @@ My interests include:
         A place where you can enhance your knowledge and memory skills with specialized training events.                                        
       </p>        
       <ul>
-        <li>10+ categories </li>
+        <li>10+ categories</li>
         <li>Customizable</li>
         <li>Training statistics</li>
         <li>Responsive design</li>
@@ -63,7 +63,7 @@ My interests include:
         Master the Rubik's Cube with comprehensive algorithm collections and practice tools for speedcubing and blindfolded solving.                                        
       </p>        
       <ul>
-        <li>3x3 and 4x4 CFOP algorithms </li>
+        <li>3x3 and 4x4 CFOP algorithms</li>
         <li>Rotated cases</li>
         <li>Blindfolded method</li>
         <li>Speedcubing Timer with statistics</li>
@@ -94,10 +94,10 @@ My interests include:
         Choose your mode and use the timer to record each solution.<br>
       </p>
       <ul>
-        <li>Timer with inspection.</li>
-        <li>Solve history.</li>
-        <li>3x3, 4x4 and 5x5 events.</li>
-        <li>Mobile support.</li>
+        <li>Timer with inspection</li>
+        <li>Solve history</li>
+        <li>3x3, 4x4 and 5x5 events</li>
+        <li>Mobile support</li>
       </ul>
       <p>
         <code>HTML</code>
@@ -123,10 +123,10 @@ My interests include:
         An educational game to test and improve your knowledge of countries' flags.
       </p>
       <ul>
-        <li>195 countries.</li>
-        <li>Scoring system.</li>
-        <li>3 difficulty levels.</li>
-        <li>Record and progress.</li>
+        <li>195 countries</li>
+        <li>Scoring system</li>
+        <li>3 difficulty levels</li>
+        <li>Record and progress</li>
       </ul>
         <code>HTML</code>
         <code>Java Script</code>
@@ -203,6 +203,12 @@ My interests include:
       <p>
         Get a clear view of your routine and keep everything organized in one place.
       </p>
+      <ul>
+        <li>Modern and minimalist calendar</li>
+        <li>Event creation and management</li>
+        <li>Scheduling and setting appointments</li>
+        <li>Mobile support</li>
+      </ul>
         <code>HTML</code>
         <code>Java Script</code>
         <code>CSS</code>
