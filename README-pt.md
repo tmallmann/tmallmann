@@ -94,10 +94,10 @@ Meus interesses incluem:
         Escolha sua modalidade e use o cronômetro para registrar cada resolução.
       </p>
       <ul>
-        <li>Cronômetro com inspeção.</li>
-        <li>Histórico de resoluções.</li>
-        <li>Modalidades 3x3, 4x4 e 5x5.</li>
-        <li>Suporte para mobile.</li>
+        <li>Cronômetro com inspeção</li>
+        <li>Histórico de resoluções</li>
+        <li>Modalidades 3x3, 4x4 e 5x5</li>
+        <li>Suporte para mobile</li>
       </ul>
         <code>HTML</code>
         <code>Java Script</code>
@@ -122,10 +122,10 @@ Meus interesses incluem:
         Um jogo educativo para testar e aprimorar seus conhecimentos sobre as bandeiras dos países.
       </p>
       <ul>
-        <li>195 países.</li>
-        <li>Sistema de pontuação.</li>
-        <li>3 níveis de dificuldade.</li>
-        <li>Recorde e progresso.</li>
+        <li>195 países</li>
+        <li>Sistema de pontuação</li>
+        <li>3 níveis de dificuldade</li>
+        <li>Recorde e progresso</li>
       </ul>
         <code>HTML</code>
         <code>Java Script</code>
@@ -202,6 +202,12 @@ Meus interesses incluem:
       <p>
         Tenha uma visão clara da sua rotina e mantenha tudo organizado em um só lugar.
       </p>
+      <ul>
+        <li>Calendário moderno e minimalista</li>
+        <li>Criação e gerenciamento de eventos</li>
+        <li>Definição de horários e compromissos</li>
+        <li>Suporte para mobile</li>
+      </ul>
         <code>HTML</code>
         <code>Java Script</code>
         <code>CSS</code>
