@@ -120,7 +120,7 @@ My interests include:
     <td width= 800" valign="top">
       <h3>🏳️ Flags</h3>
       <p>
-        An educational and fun game to test and improve your knowledge of countries' flags.
+        An educational game to test and improve your knowledge of countries' flags.
       </p>
       <ul>
         <li>195 countries.</li>
