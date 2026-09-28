@@ -50,7 +50,7 @@ Meus interesses incluem:
       </p>
     </td>
     <td width="250" align="center" valign="middle">
-      <img src="./assets/proj1.png" width="150">
+      <img src="./assets/mindacademy.png" width="150">
     </td>
   </tr>
 </table>
@@ -81,7 +81,7 @@ Meus interesses incluem:
       </p>
     </td>    
     <td width="250" align="center" valign="middle">
-      <img src="./assets/proj3.png" width="150">
+      <img src="./assets/algsdatabase.png" width="150">
     </td>
   </tr>
 </table>
@@ -109,7 +109,7 @@ Meus interesses incluem:
       </p>
     </td>
     <td width="250" align="center" valign="middle">
-      <img src="./assets/proj5.png" width="150">
+      <img src="./assets/cubetimer.png" width="150">
     </td>
   </tr>
 </table>
@@ -137,7 +137,7 @@ Meus interesses incluem:
       </p>
     </td>
     <td width="250" align="center" valign="middle">
-      <img src="./assets/blank.png" width="150">
+      <img src="./assets/flags.png" width="150">
     </td>
   </tr>
 </table>
@@ -168,7 +168,7 @@ Meus interesses incluem:
       </p>
     </td>
     <td width="250" align="center" valign="middle">
-      <img src="./assets/proj2.png" width="150">
+      <img src="./assets/tilespuzzl.png" width="150">
     </td>
   </tr>
 </table>
@@ -190,7 +190,7 @@ Meus interesses incluem:
       </p>
     </td>
     <td width="250" align="center" valign="middle">
-      <img src="./assets/proj4.png" width="150">
+      <img src="./assets/mosaic.png" width="150">
     </td>
   </tr>
 </table>
@@ -218,7 +218,7 @@ Meus interesses incluem:
       </p>
     </td>
     <td width="250" align="center" valign="middle">
-      <img src="./assets/blank.png" width="150">
+      <img src="./assets/planner.png" width="150">
     </td>
   </tr>
 </table>
