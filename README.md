@@ -81,7 +81,7 @@ My interests include:
       </p>
     </td>    
     <td width="250" align="center" valign="middle">
-      <img src="./assets/algsdatabese.png" width="150">
+      <img src="./assets/algsdatabase.png" width="150">
     </td>
   </tr>
 </table>
