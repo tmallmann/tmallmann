@@ -224,4 +224,35 @@ My interests include:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width= 800" valign="top">
+      <h3>📈 Graphite</h3>
+      <p>
+        Visualize your mathematical equations in 2D and 3D.
+      </p>
+      <ul>
+        <li>Customizable axis values</li>
+        <li>Customizable functions colors</li>
+        <li>2D and 3D visualizations</li>
+        <li>Export image</li>
+      </ul>
+      <p>        
+        <code>Vercel</code>
+        <code>Next.js</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Tailwind CSS</code>
+      </p>
+      <p>
+        <strong>Links:</strong>
+        <a href="https://graphite-seven.vercel.app/">Check it out</a> | <a href="https://github.com/tmallmann/graphite">Documentation</a>
+      </p>
+    </td>
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/graphite.png" width="150">
+    </td>
+  </tr>
+</table>
+
 <br>
