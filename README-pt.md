@@ -223,5 +223,35 @@ Meus interesses incluem:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width= 800" valign="top">
+      <h3>📈 Graphite</h3>
+      <p>
+        Visualize suas funções matemáticas em 2D e 3D.
+      </p>
+      <ul>
+        <li>Valores dos eixos customizáveis</li>
+        <li>Cores das funções customizáveis</li>
+        <li>Visualização em 2D e 3D</li>
+        <li>Exportação de imagem</li>
+      </ul>
+      <p>        
+        <code>Vercel</code>
+        <code>Next.js</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Tailwind CSS</code>
+      </p>
+      <p>
+        <strong>Links:</strong>
+        <a href="https://graphite-seven.vercel.app/">Confira</a> | <a href="https://github.com/tmallmann/graphite">Documentação</a>
+      </p>
+    </td>
+    <td width="250" align="center" valign="middle">
+      <img src="./assets/graphite.png" width="150">
+    </td>
+  </tr>
+</table>
 
 <br>
