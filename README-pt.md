@@ -29,10 +29,10 @@ Meus interesses incluem:
     <td width="800" valign="top">
       <h3>🧠 Mind Academy</h3>
       <p>
-        Um lugar onde você pode aperfeiçoar seus conhecimentos e habilidades de memória através de eventos especializados.                                      
+        Um lugar onde você pode aperfeiçoar suas habilidades de memória através de eventos especializados.                                      
       </p>        
       <ul>
-        <li>10+ categorias</li>
+        <li>9 eventos de memória</li>
         <li>Customizável</li>
         <li>Estatísticas dos treinos</li>
         <li>Design responsivo</li>
