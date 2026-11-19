@@ -58,7 +58,7 @@ Meus interesses incluem:
 <table>
   <tr>
     <td width="800" valign="top">
-      <h3>📜 Algs Database</h3>
+      <h3>💠 Cubing Lab</h3>
       <p>
         Domine o Cubo Mágico com algoritmos e ferramentas para a prática de speedcubing e resolução com os olhos vendados.
       </p>        
@@ -77,7 +77,7 @@ Meus interesses incluem:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://v0-algsdb.vercel.app/">Confira</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentação</a>
+        <a href="https://v0-cubinglab.vercel.app/">Confira</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentação</a>
       </p>
     </td>    
     <td width="250" align="center" valign="middle">
