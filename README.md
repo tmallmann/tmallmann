@@ -58,7 +58,7 @@ My interests include:
 <table>
   <tr>
     <td width="800" valign="top">
-      <h3>📜 Algs Database</h3>
+      <h3>💠 Cubing Lab</h3>
       <p>
         Master the Rubik's Cube with comprehensive algorithm collections and practice tools for speedcubing and blindfolded solving.                                        
       </p>        
@@ -77,7 +77,7 @@ My interests include:
       </p>
       <p>
         <strong>Links:</strong>
-        <a href="https://v0-algsdb.vercel.app/">Check it out</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentation</a>
+        <a href="https://v0-cubinglab.vercel.app/">Check it out</a> | <a href="https://github.com/tmallmann/v0-rubiks-cube-hub">Documentation</a>
       </p>
     </td>    
     <td width="250" align="center" valign="middle">
